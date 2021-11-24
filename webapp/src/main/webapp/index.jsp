@@ -16,11 +16,11 @@
     <input type="text" placeholder="Enter Email" name="email" id="email" required>
     <br>
 
-    <label for="psw"><b>Contraseña</b></label>
+    <label for="psw"><b>Contrasena</b></label>
     <input type="password" placeholder="Enter Password" name="psw" id="psw" required>
     <br>
 
-    <label for="psw-repeat"><b>Repita su contraseña</b></label>
+    <label for="psw-repeat"><b>Repita su contrasena</b></label>
     <input type="password" placeholder="Repeat Password" name="psw-repeat" id="psw-repeat" required>
     <hr>
     <br>
@@ -28,7 +28,7 @@
     <button type="submit" class="registerbtn">Register</button>
   </div>
   <div class="container signin">
-    <p> ¿Ya tienes una cuenta? <a href="#">Sign in</a>.</p>
+    <p> Ya tienes una cuenta <a href="#">Sign in</a>.</p>
   </div>
 
    <h1> Felicidades Gracias  </h1>

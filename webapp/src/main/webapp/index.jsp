@@ -1,6 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>Regitrate puto</h1>
+    <h1>Registrate puto</h1>
     <p>Por favor create la cuenta ctm.</p>
     <hr>
      
@@ -31,7 +31,7 @@
     <p> Ya tienes una cuenta <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Felicidades Gracias  </h1>
+   <h1> Felicidades CTM  </h1>
 
   
 </form>
